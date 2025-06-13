@@ -16,4 +16,16 @@ This repository contains solutions to basic, intermediate, and tough math proble
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mrsaffu/LeetCode-Mathe-Challenge/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/mrsaffu/LeetCode-Mathe-Challenge/tree/master/1019-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/mrsaffu/LeetCode-Mathe-Challenge/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/mrsaffu/LeetCode-Mathe-Challenge/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
