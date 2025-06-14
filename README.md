@@ -19,6 +19,7 @@ This repository contains solutions to basic, intermediate, and tough math proble
 ## Array
 |  |
 | ------- |
+| [0932-monotonic-array](https://github.com/mrsaffu/LeetCode-Mathe-Challenge/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mrsaffu/LeetCode-Mathe-Challenge/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
