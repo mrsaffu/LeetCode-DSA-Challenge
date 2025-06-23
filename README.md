@@ -11,6 +11,7 @@ This repository contains solutions to basic, intermediate, and tough math proble
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mrsaffu/LeetCode-Mathe-Challenge/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mrsaffu/LeetCode-Mathe-Challenge/tree/master/0013-roman-to-integer) |
 ## String
 |  |
@@ -19,6 +20,7 @@ This repository contains solutions to basic, intermediate, and tough math proble
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mrsaffu/LeetCode-Mathe-Challenge/tree/master/0001-two-sum) |
 | [0932-monotonic-array](https://github.com/mrsaffu/LeetCode-Mathe-Challenge/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/mrsaffu/LeetCode-Mathe-Challenge/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
