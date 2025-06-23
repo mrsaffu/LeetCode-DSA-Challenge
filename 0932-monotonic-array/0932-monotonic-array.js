@@ -2,8 +2,8 @@
  * @param {number[]} nums
  * @return {boolean}
  */
-var isMonotonic = function(nums) {
-       if(nums.length ===0){
+var isMonotonic = function (nums) {
+    if(nums.length ===0){
         return true 
     } 	
     const first = nums[0];
@@ -27,5 +27,5 @@ var isMonotonic = function(nums) {
         } 
     }
     return true;
-    
+
 };
